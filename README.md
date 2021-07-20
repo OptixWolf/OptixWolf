@@ -9,5 +9,3 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCfU_vTlfdNQHZuR8g-TdG3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfu_vtlfdnqhzur8g-tdg3w" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=optixwolf&show_icons=true&locale=en&layout=compact" alt="optixwolf" /></p>
