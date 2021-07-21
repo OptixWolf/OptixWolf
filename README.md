@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm OptixWolf</h1>
 <h3 align="center">An Developer from Germany</h3>
 
-- 🔭 I’m currently working on [ElevatorLockdown-EXILED](https://github.com/OptixWolf/ElevatorLockdown-EXILED)
-- 🔭 I’m currently working on [WarheadDetonationLock-EXILED](https://github.com/OptixWolf/WarheadDetonationLock-EXILED)
+
+## Exiled Plugins
+- [ElevatorLockdown-EXILED](https://github.com/OptixWolf/ElevatorLockdown-EXILED)
+- [WarheadDetonationLock-EXILED](https://github.com/OptixWolf/WarheadDetonationLock-EXILED)
+- [GuardKeycardUpgrade-EXILED](https://github.com/OptixWolf/GuardKeycardUpgrade-EXILED)
 
 <h3 align="left">My Stuff:</h3>
 <p align="left">
