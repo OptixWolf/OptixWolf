@@ -2,6 +2,7 @@
 <h3 align="center">An Developer from Germany</h3>
 
 - 🔭 I’m currently working on [ElevatorLockdown-EXILED](https://github.com/OptixWolf/ElevatorLockdown-EXILED)
+- 🔭 I’m currently working on [WarheadDetonationLock-EXILED](https://github.com/OptixWolf/WarheadDetonationLock-EXILED)
 
 <h3 align="left">My Stuff:</h3>
 <p align="left">
