@@ -3,10 +3,7 @@
 
 
 ## Exiled Plugins
-- [ElevatorLockdown-EXILED](https://github.com/OptixWolf/ElevatorLockdown-EXILED)
-- [WarheadDetonationLock-EXILED](https://github.com/OptixWolf/WarheadDetonationLock-EXILED)
-- [GuardKeycardUpgrade-EXILED](https://github.com/OptixWolf/GuardKeycardUpgrade-EXILED)
-- [RandomElevatorTime-EXILED](https://github.com/OptixWolf/RandomElevatorTime-EXILED)
+
 
 <h3 align="left">My Stuff:</h3>
 <p align="left">
