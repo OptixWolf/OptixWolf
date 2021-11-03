@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OptixWolf</h1>
-<h3 align="center">An Developer from Germany</h3>
+<h3 align="center">A Developer from Germany</h3>
 
 
 ## Exiled Plugins
